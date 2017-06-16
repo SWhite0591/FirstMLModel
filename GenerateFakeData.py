@@ -7,7 +7,7 @@ for index in range(0, 1000):
     else:
         gender = 0 # female
 
-    height = 7 * np.random.randn() + 172 if (gender == 1) else 163
+    height = 7 * np.random.randn() + (172 if (gender == 1) else 163)
     standand_weight = (height - 105) if (gender == 1) else (height - 110)
     weight = 5 * np.random.randn() + standand_weight
 
