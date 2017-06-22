@@ -10,7 +10,7 @@ I hope it could be your first step in Machine Learning.
 You can download an [Anaconda](https://www.continuum.io/downloads/) for a easy setup.
 
 ### Description
-[CoreMLModelDemo.py](https://github.com/chenyi1989/FirstMLModel/blob/master/CoreMLModelDemo.py) shows a simple way to train a model which can predict a person's weight by his gender and height.
+[CoreMLModelDemo.py](https://github.com/chenyi1989/FirstMLModel/blob/master/CoreMLModelDemo.py) shows a minimum code to train a model which can predict a person's weight by his gender and height.
 
 More details about this demo in [Chinese](http://www.jianshu.com/p/42cf77227402).
 
